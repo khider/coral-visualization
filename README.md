@@ -1,4 +1,5 @@
 [![DOI](https://zenodo.org/badge/929103376.svg)](https://doi.org/10.5281/zenodo.14847181)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/khider/coral-visualization/HEAD)
 
 # Visualizing Paleoclimate Coral Records
 
