@@ -26,7 +26,7 @@ This repository contains a Jupyter Notebook for common visualizations of paleocl
 ✅ Time-series visualization of coral records  
 ✅ Customizable plots for publication-ready figures  
 
-The notebook is designed for paleoclimatologists, oceanographers, and climate scientists working with coral archives. Contributions and feedback are welcome!
+The notebook is designed for paleoclimatologists, oceanographers and climate scientists working with coral archives. Contributions and feedback are welcome!
 
 ## Data
 
