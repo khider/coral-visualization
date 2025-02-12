@@ -42,6 +42,28 @@ Data is archived on the [NOAA NCEI website](https://www.ncei.noaa.gov/pub/data/p
 
 ### Running on your local machine
 
+If you are interested in running this material locally on your computer, you will need to follow this workflow:
+
+1. Clone the `https://github.com/khider/coral-visualization` repository:
+
+   ```bash
+    git clone https://github.com/khider/coral-visualization.git
+   ```
+
+2. Move into the `coral-visualization` directory
+   ```bash
+   cd coral-visualization
+   ```
+3. Create and activate your conda environment from the `environment.yml` file
+   ```bash
+   conda env create -f environment.yml
+   conda activate coralviz
+   ```
+4. Start up Jupyterlab
+   ```bash
+   jupyter lab
+   ```
+
 ### Running inside a Docker container
 
 📜 License: [Specify your license, e.g., MIT]
