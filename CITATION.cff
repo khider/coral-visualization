@@ -1,4 +1,4 @@
-cff-version: 2025.02.10.2
+cff-version: 2025.02.12.1
 message: "If you use this tutorial example, please cite it as below."
 authors:
   - family-names: "Khider"
@@ -6,6 +6,6 @@ authors:
     orcid: "https://orcid.org/0000-0001-7501-8430"
 title: "Visualizing Paleoclimate Coral Records"
 version: v2025.02.10
-date-released: 2025-02-10
+date-released: 2025-02-12
 doi:  10.5281/zenodo.14847181
 url: "https://github.com/khider/coral-visualization"
