@@ -22,7 +22,7 @@ This repository contains a Jupyter Notebook for common visualizations of paleocl
 
 ## Features:
 
-✅ Use of NOAA Paleoclimate API to retrieve dataset  
+✅ Use of NOAA Paleoclimate API to retrieve a dataset  
 ✅ Time-series visualization of coral records  
 ✅ Customizable plots for publication-ready figures  
 
