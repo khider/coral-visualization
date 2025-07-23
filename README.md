@@ -5,7 +5,7 @@
 
 ## Motivation
 
-This repository contains a Jupyter Notebook for common visualizations of paleoclimate coral records. The notebook provides a streamlined approach to analyzing and interpreting coral geochemistry data (e.g., δ¹⁸O, Sr/Ca) to reconstruct past climate variability.
+This repository contains a Jupyter Notebook for common visualizations of paleoclimate coral records. The notebook provides a streamlined approach to analyzing and interpreting coral geochemistry data (e.g., δ¹⁸O, Sr/Ca) to reconstruct paleoclimate variability.
 
 ## Authors
 
